@@ -5,5 +5,5 @@ main()
     int b=20;
     int sum;
     sum=a+b;
-    printf("sum of the numbers are =%d",sum)
+    
 }
